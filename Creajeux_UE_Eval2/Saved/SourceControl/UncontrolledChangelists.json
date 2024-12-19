@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Core/BluePrint/BP_Tank.uasset",
+				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Core/Core/GM_Tank.uasset",
+				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Maps/Main.umap",
+				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Core/BluePrint/Core/PC_Tank.uasset"
+			]
+		}
+	]
+}

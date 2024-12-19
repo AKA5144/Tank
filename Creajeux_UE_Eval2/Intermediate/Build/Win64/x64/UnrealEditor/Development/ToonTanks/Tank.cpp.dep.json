@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ar405\\downloads\\creajeux_ue_eval2\\source\\toontanks\\tank.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ar405\\downloads\\creajeux_ue_eval2\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\ar405\\downloads\\creajeux_ue_eval2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "c:\\users\\ar405\\downloads\\creajeux_ue_eval2\\source\\toontanks\\tank.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h",
+            "c:\\users\\ar405\\downloads\\creajeux_ue_eval2\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
