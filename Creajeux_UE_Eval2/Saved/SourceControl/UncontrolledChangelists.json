@@ -5,10 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Core/BluePrint/BP_Tank.uasset",
-				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Core/Core/GM_Tank.uasset",
-				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Maps/Main.umap",
-				"C:/Users/ar405/Downloads/Creajeux_UE_Eval2/Content/Core/BluePrint/Core/PC_Tank.uasset"
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/BP_Tank.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Core/GM_Tank.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Core/PC_Tank.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Core/Input/IMC_Tank.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Core/Input/ia_Move.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Blueprint/BP_Bullet.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Core/Input/IA_Fire.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Maps/Main.umap",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Blueprint/BP_Turret.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Blueprint/WB_HealthBar.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Blueprint/Input/AI_Move.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Blueprint/Input/IMC_Tank.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Input/IMC_Tank.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Input/AI_Move.uasset",
+				"C:/Users/Etudiant1/Downloads/Creajeux_UE_Eval2/Content/Core/Core/Input/AI_Move.uasset"
 			]
 		}
 	]
